@@ -12,7 +12,7 @@
 ![image](https://github.com/t3rr1xn3/EulenCheats-FiveM/assets/144951107/265c6841-d0fc-4497-a4d0-94e86095497f)
 
 
-## Last update 6.09 🚀
+## Last update 28.10 🚀
 
 - Your favorite ESP just got better with enhanced health and box sizes.
 - High smooth settings on your Aim it will not slow down your aim anymore.
